@@ -12,8 +12,8 @@ local Expansion = E["Shadowlands"]
 -- Create addon table
 local db = {}
 
-db.name = Expansion .. " Hearthstones"
-db.desc = "Hearthstones reagents for " .. Expansion
+db.name = "Bears Hearthstones"
+db.desc = "Hearthstones and other transportation items"
 
 -- Filter info
 db.Filters = {
