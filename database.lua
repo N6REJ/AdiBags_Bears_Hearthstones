@@ -18,7 +18,7 @@ db.desc = "Hearthstones and other transportation items"
 -- Filter info
 db.Filters = {
    ["Hearthstones"] = {
-      uiName = Expansion .. " Hearthstones",
+      uiName = db.name,
       uiDesc = db.desc,
       title = "Hearthstones",
       items = {
