@@ -1,14 +1,14 @@
-# AdiBags Bears Enchanting
-sorts Enchanting reagents into their own category.
+# AdiBags Bears Hearthstones
+sorts Hearthstones into their own category.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Enchanting)
-[![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Enchanting/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Enchanting/actions/workflows/release.yml) 
-[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Enchanting.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Enchanting/releases/)
+![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Hearthstones)
+[![Build Curse Release](https://github.com/N6REJ/AdiBags_Bears_Hearthstones/actions/workflows/release.yml/badge.svg)](https://github.com/N6REJ/AdiBags_Bears_Hearthstones/actions/workflows/release.yml) 
+[![GitHub release](https://img.shields.io/github/release/N6REJ/AdiBags_Bears_Hearthstones.svg)](https://GitHub.com/N6REJ/AdiBags_Bears_Hearthstones/releases/)
 
 ![Bears](https://img.shields.io/badge/Supports-Shadowlands-0B68D7)
-![10.0.0](https://img.shields.io/badge/Ready_for-10.0.0-darkgreen)
-[![curse](https://img.shields.io/badge/Curseforge_Project_ID:-545326-purple)](https://www.curseforge.com/wow/addons/adibags_shadowlands_Enchanting)
+![10.0.0](https://img.shields.io/badge/Ready_for-10.0.2-darkgreen)
+[![curse](https://img.shields.io/badge/Curseforge_Project_ID:-704934-purple)](https://www.curseforge.com/wow/addons/adibags_shadowlands_Hearthstones)
 [![requires](https://img.shields.io/badge/Requires-AdiBags-brown)](https://www.curseforge.com/wow/addons/adibags)
 
 ![img](https://user-images.githubusercontent.com/1850089/173354329-1db659e2-2871-412e-8383-2339b3c60d81.png)

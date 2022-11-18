@@ -1,10 +1,10 @@
 ## Interface: 100002
 ## X-Interface: 100002
-## Title: AdiBags Bears Enchanting
+## Title: AdiBags Bears Hearthstones
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
-## X-Curse-Project-ID: 446515
+## X-Curse-Project-ID: 704934
 ## X-Wago-ID: Rn6VdEGd
 ## DefaultState: enabled
 ## Dependencies: AdiBags
