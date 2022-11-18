@@ -1,5 +1,5 @@
 # AdiBags Bears Hearthstones
-sorts Hearthstones into their own category.
+sorts Hearthstones and other transportation items into their own category.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Size](https://img.shields.io/github/repo-size/N6REJ/AdiBags_Bears_Hearthstones)
