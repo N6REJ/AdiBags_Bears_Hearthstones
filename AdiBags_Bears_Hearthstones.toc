@@ -1,6 +1,6 @@
 ## Interface: 100002
 ## X-Interface: 100002
-## Title: AdiBags Bears Hearthstones
+## Title: AdiBags - Bears Hearthstones
 ## Version: @project-version@
 ## Author: Bearesquishy
 ## X-License: MIT
