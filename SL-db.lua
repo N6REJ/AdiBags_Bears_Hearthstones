@@ -169,6 +169,7 @@ db.Filters = {
          [183716] = true, -- Venthyr Sinstone
          [180290] = true, -- Night Fae Hearthstone
          [169297] = true, -- Stormpike Insignia
+         [40582] = true, -- Scourgestone
       }
    }
 }
